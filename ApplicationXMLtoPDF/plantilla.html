@@ -1,0 +1,131 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="styles/style.css" rel="stylesheet" media="all" />
+</head>
+<body style="font-family:Arial">
+    <header class="clearfix">
+        <div id="logo">
+            <img src="image/logo.png" />
+        </div>
+        <div id="company">
+            <h2 class="name">@Model.Emisor.Nombre</h2>
+            <div>RFC: @Model.Emisor.Rfc</div>
+            <div>Régimen Fiscal: @Model.Emisor.RegimenFiscal</div>
+            <div><a href="#">company@example.com</a></div>
+        </div>
+    </header>
+    <main>
+        <div id="details" class="clearfix">
+            <div id="client">
+                <div class="to">Datos del Cliente:</div>
+                <h2 class="name">@Model.Receptor.Nombre</h2>
+                <h2 class="name">@Model.Receptor.Rfc</h2>
+                <h2 class="name">@Model.Receptor.UsoCFDI</h2>
+            </div>
+            <div id="invoice">
+                <h1>Factura: @Model.Folio</h1>
+                <h1>Serie: @Model.Serie</h1>
+                <div class="date">Fecha de Emisión: @Model.Fecha</div>
+                <div class="date">Tipo de Comprobante: @Model.TipoDeComprobante</div>
+                <div>Lugar de Expedición: @Model.LugarExpedicion</div>
+            </div>
+        </div>
+        <div id="details" class="clearfix">
+            <div id="client">
+                <div class="to">Información de Pago:</div>
+                <h2 class="name">Método de Pago: @Model.MetodoPago</h2>
+                <div>Lugar de Expedición: @Model.LugarExpedicion</div>
+                <div>Forma de Pago: @Model.FormaPago</div>
+                <div>Moneda: @Model.Moneda</div>
+            </div>
+            <div id="invoice">
+
+            </div>
+        </div>
+
+        <div>
+            <div>
+                <table style="width:100%;" class="tabla">
+                    <tr>
+                        <th>Cantidad</th>
+                        <th>Clave</th>
+                        <th>Descripción</th>
+                        <th>Precio</th>
+                        <th>Total</th>
+                    </tr>
+                    @foreach(var oConcepto in Model.Conceptos)
+                    {
+                    <tr>
+                        <td>@oConcepto.Cantidad</td>
+                        <td>@oConcepto.ClaveProdServ</td>
+                        <td>@oConcepto.Descripcion</td>
+                        <td>@oConcepto.Importe</td>
+                        <td>@(oConcepto.Cantidad * oConcepto.Importe)</td>
+                    </tr>
+                    }
+                    <tr>
+                        <td colspan="3"></td>
+                        <td>Subtotal:</td>
+                        <td>@Model.SubTotal</td>
+                    </tr>
+                    <tr>
+                        <td colspan="3"></td>
+                        <td>Total:</td>
+                        <td>@Model.Total</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        <br />
+        <div id="thanks">Thank you!</div>
+        <div id="notices">
+            <div>NOTICE:</div>
+            <div class="notice">@Model.MonedaLetra</div>
+        </div>
+        <br />
+        <div>
+            <div style="width:50%; float:left;">
+                <img src="@Model.QR" width="150" height="150" />
+            </div>
+            <div style="width:50%; float:left;"></div>
+            <div style="clear:both;"></div>
+        </div>
+        <div>
+            <div class="textoContiguo" style="font-size:11px;">
+                <b>Cerificado Digital SAT: </b>@Model.Certificado<br />
+            </div>
+            <b>Fecha de Certificación: </b>@Model.TimbreFiscalDigital.FechaTimbrado<br />
+            <b>Cadena Original del Timbre: </b>@Model.TimbreFiscalDigital.NoCertificadoSAT<br />
+            <div class="textoContiguo" style="font-size:11px;">
+                <b>Sello digital del CFDI: </b>@Model.TimbreFiscalDigital.SelloCFD<br />
+            </div>
+            <div class="textoContiguo" style="font-size:11px;">
+                <b>Sello digital del SAT: </b>@Model.TimbreFiscalDigital.SelloSAT<br />
+            </div>
+            <b>Folio fiscal: </b>@Model.TimbreFiscalDigital.UUID<br />
+            <b>RFC del proveedor de certificación: </b>@Model.TimbreFiscalDigital.RfcProvCertif<br />
+        </div>
+    </main>
+</body>
+</html>
+
+<style>
+    .tabla th {
+        border-bottom: 1px solid #000;
+    }
+
+    .textoContiguo {
+        -ms-word-break: break-all;
+        word-break: break-all;
+        word-break: break-word;
+        -ms-hyphens: auto;
+        -moz-hyphens: auto;
+        -webkit-hyphens: auto;
+        hyphens: auto;
+    }
+</style>

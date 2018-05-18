@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" Version="3.3" Serie="A" Folio="1368" Fecha="2018-02-09T12:06:09" Sello="hcJq24fcv9Pr7bYpzm5D5//0QI5njnfropWLsBZvnKsFAVWPJiXlPFQmpR1i6gmbH7dlZNroc3vX3y1rSkCKOWhzrWi+wEiOBO9UwOivrcFrRdqF2svTITYYBJhCo12+mxwuWRrWAU+sS12kmUqUz2SJBNWUZiHEVZGJd5nagd0=" FormaPago="01" NoCertificado="00001000000306255467" Certificado="MIIEZjCCA06gAwIBAgIUMDAwMDEwMDAwMDAzMDYyNTU0NjcwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAzMDYxNjQ3MTFaFw0xOTAzMDYxNjQ3MTFaMIGyMSEwHwYDVQQDExhCVUxNQVJPIEhFUk5BTkRFWiBHQVJDSUExITAfBgNVBCkTGEJVTE1BUk8gSEVSTkFOREVaIEdBUkNJQTEhMB8GA1UEChMYQlVMTUFSTyBIRVJOQU5ERVogR0FSQ0lBMRYwFAYDVQQtEw1IRUdCNjcwNjIwMlM3MRswGQYDVQQFExJIRUdCNjcwNjIwSE1OUlJMMDExEjAQBgNVBAsTCU5BVUNBTFBBTjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAm6fQ82rkUPJ4mckjRUrEY3QRyWiEeEVTbvaWPvs9/zQlK/athGWX1+y994KeWJ0Hf6403VzURfBijJJiViQqkS0H2ryVVJsYuQ1jBIG2WLEh6ku8Ee/0PfDPM14vDAHX16Dwj2/f5goQJiclJquHAbli09Sqxhm1Bd1JCteloWcCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAN4Hqe92Hs2z/vIXSH+M0PjpRVvZwzxCNhS4StH4qW6SVZDWwm/u0jKYtuYgiPXqlf1cMkR38yG8leIiHl4ZeBiwTteDmFwXRkbbxsU2CrY+N5/alBEGKcPPx3ui0B93kRHaurAmCGCjinRqxf+OWUeK+rMjqTW7h1r59d3dF8LE+0i/w+ncyPK8/WdqOyqcVqNmXZxfbMiI1LAKeW9RbCxUSfl012UM+cE0CwJYibTnNDBuRLfvkUSag0mDeN90v2UXsJh2zNlD6M1Crl5mlDaZUHfc/dpPU9qG39Qa535l2apHpvjJWm3G0fuRkiTFppRdhsg8Lr7SQgaduqUHbHA=" SubTotal="295" Moneda="MXN" Total="342.20" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="57460" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cfdi:Emisor Rfc="HEGB6706202S7" Nombre="BULMARO HERNANDEZ GARCIA" RegimenFiscal="621" />
+  <cfdi:Receptor Rfc="ROAM490720EG4" Nombre="Mario Rodríguez Andrade" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="11121616" NoIdentificacion="15PINO" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Pino 15m.m. x 1.22 x 1.22" ValorUnitario="295" Importe="295.0">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="295.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="47.20" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="47.20">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="47.20" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/timbrefiscaldigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="EFC123FD-2840-4845-A211-C11BAEB271E3" FechaTimbrado="2018-02-09T12:06:11" RfcProvCertif="MAS0810247C0" SelloCFD="hcJq24fcv9Pr7bYpzm5D5//0QI5njnfropWLsBZvnKsFAVWPJiXlPFQmpR1i6gmbH7dlZNroc3vX3y1rSkCKOWhzrWi+wEiOBO9UwOivrcFrRdqF2svTITYYBJhCo12+mxwuWRrWAU+sS12kmUqUz2SJBNWUZiHEVZGJd5nagd0=" NoCertificadoSAT="00001000000404486074" SelloSAT="h60NooHo3lWyQRKhn9e3/NvAilDfy62j/TGor0fPiVKJzyAZBEq+h4jonJ23fnk3NyiUbt2rJru/NydCQ/ZAtCQQzJ4BgiUj3j/P8cI2UjoB0oyVV5VxYo3zArR7YuZdMX0EqLY28OI89mQfnpZLMywg1U+SEzRom7O/XQ+vnQmCP5NSLGRNyuoZmsUY+UfbwsvPEURDDWYyY4W0e9QII2V7CxxGM/vbRtAELZ8yfEAiJ24etGXw/hjac4XvYi8KmS31czXgvCnMZ0REoQOAm++DUGnX8/O1nNIXa4zgVYP5F7coPuUhagt0ZHUl4AOrqM4VbEGCJ96el4Z5C8oV7g==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

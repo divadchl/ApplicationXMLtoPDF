@@ -1,0 +1,145 @@
+c:\users\dacalo\documents\visual studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\dacalo\documents\visual studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\dacalo\documents\visual studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\dacalo\documents\visual studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\dacalo\documents\visual studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Collections.Immutable.dll
+c:\users\dacalo\documents\visual studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.IO.FileSystem.dll
+c:\users\dacalo\documents\visual studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\dacalo\documents\visual studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\dacalo\documents\visual studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\dacalo\documents\visual studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.ValueTuple.dll
+c:\users\dacalo\documents\visual studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\VBCSCompiler.exe
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\obj\Debug\ApplicationXMLtoPDF.csproj.CoreCompileInputs.cache
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\libeay32.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\libgcc_s_dw2-1.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\mingwm10.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\plantilla.html
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\ssleay32.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\wkhtmltox0.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\ApplicationXMLtoPDF.dll.config
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\ApplicationXMLtoPDF.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\ApplicationXMLtoPDF.pdb
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\csc.exe
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\csc.exe.config
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\csc.rsp
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\csi.exe
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\csi.exe.config
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\csi.rsp
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.AppContext.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Console.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.IO.Compression.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.IO.Pipes.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Security.Claims.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Threading.Thread.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\vbc.exe
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\vbc.exe.config
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\vbc.rsp
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\Common.Logging.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\itextsharp.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\Pechkin.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\Pechkin.Synchronized.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\RazorEngine.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\System.Web.Razor.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\itextsharp.xml
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\RazorEngine.xml
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\System.Web.Razor.xml
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\obj\Debug\ApplicationXMLtoPDF.csproj.CopyComplete
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\obj\Debug\ApplicationXMLtoPDF.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\ApplicationXMLtoPDF\ApplicationXMLtoPDF\obj\Debug\ApplicationXMLtoPDF.pdb
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\libeay32.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\libgcc_s_dw2-1.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\mingwm10.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\plantilla.html
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\ssleay32.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\wkhtmltox0.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\ApplicationXMLtoPDF.dll.config
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\ApplicationXMLtoPDF.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\ApplicationXMLtoPDF.pdb
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\csc.exe
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\csc.exe.config
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\csc.rsp
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\csi.exe
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\csi.exe.config
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\csi.rsp
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.AppContext.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Collections.Immutable.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Console.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Diagnostics.Process.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.IO.Compression.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.IO.FileSystem.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.IO.Pipes.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Security.AccessControl.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Security.Claims.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Security.Principal.Windows.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Threading.Thread.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.ValueTuple.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Xml.XPath.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\vbc.exe
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\vbc.exe.config
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\vbc.rsp
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\VBCSCompiler.exe
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\roslyn\VBCSCompiler.exe.config
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\Common.Logging.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\itextsharp.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\Pechkin.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\Pechkin.Synchronized.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\RazorEngine.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\System.Web.Razor.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\itextsharp.xml
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\RazorEngine.xml
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\System.Web.Razor.xml
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\obj\Debug\ApplicationXMLtoPDF.csproj.CoreCompileInputs.cache
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\obj\Debug\ApplicationXMLtoPDF.csproj.CopyComplete
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\obj\Debug\ApplicationXMLtoPDF.dll
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\obj\Debug\ApplicationXMLtoPDF.pdb
+E:\ASP NET\ApplicationXMLtoPDF\ApplicationXMLtoPDF\obj\Debug\ApplicationXMLtoPDF.csprojAssemblyReference.cache
